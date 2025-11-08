@@ -6,7 +6,7 @@ from retrieval import get_vectorstore
 
 st.set_page_config(page_title="Instrumentum Veritatis", page_icon="✝️")
 
-st.title("✝️ Instrumentum Veritatis")
+st.title("Instrumentum Veritatis")
 st.write("An AI assistant for exploring official Catholic teaching on moral, social, and economic questions.")
 
 # Initialize vector store
